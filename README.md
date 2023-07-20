@@ -6,4 +6,4 @@ Supported databases
 - JET 3
 - JET 4
 
-Only use databases that you have permission for.
+Only use on databases that you have permission for.
